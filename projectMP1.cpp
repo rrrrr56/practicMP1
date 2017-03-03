@@ -127,5 +127,5 @@ int main() {
 		x.operation(z.number);
 		y.operation(z.number);
 	} while (z.number != '3');
-	return (0);
+	return 0;
 }
