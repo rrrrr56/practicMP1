@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include <fstream>
 #include <string>
+#include <cmath>
 using namespace std;
 int i;
 class BOOK {
