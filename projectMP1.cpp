@@ -5,6 +5,7 @@
 #include <cmath>
 using namespace std;
 int i;
+int b;
 class BOOK {
 protected:
 	char name1[300]; char name2[300]; char name3[300]; char nomer[300]; char s1[106];
